@@ -1,17 +1,15 @@
 import React from 'react';
-
-
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
     ///fragment  for navigation <> </>// 
 const menus = <>
 
-                        <li><Link to = "/">Home</Link ></li>
+           <li><Link to = "/">Home</Link ></li>
         <li><Link to = "/appointment">Appointment</Link></li>            
-                        <li><Link to = "/contact">Contact Us</Link></li>
-                       <li><Link to = "/about">About</Link></li>
-                       <li><Link to = "/login">Login</Link></li>
+            <li><Link to = "/contact">Contact Us</Link></li>
+             <li><Link to = "/about">About</Link></li>
+             <li><Link to = "/login">Login</Link></li>
 
 </>
     ///fragment  for navigation <> </>// 
@@ -28,7 +26,9 @@ const menus = <>
                             <li>{menus}</li>
                         </ul>
                     </div>
-                    <a class="btn btn-ghost normal-case text-xl"> One Hospital</a>
+
+                    <a class="btn btn-ghost normal-case text-xl">One Hospital</a>
+             
                 </div>
                 <div class="navbar-center hidden lg:flex">
                     <ul class="menu menu-horizontal p-0">

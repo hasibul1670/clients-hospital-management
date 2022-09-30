@@ -32,7 +32,10 @@ setTreatments={setTreatments}
 
     }
 </div>
-{treatments && <Modal treatments={treatments}></Modal>}
+{treatments && <Modal
+ date={date} 
+ setTreatments={setTreatments}
+ treatments={treatments}></Modal>}
 
         </div>
     );

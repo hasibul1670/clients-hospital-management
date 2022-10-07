@@ -1,6 +1,6 @@
 [
 {
-  "id": 1,
+ 
   "name": "Teeth Orthodontics",
   "slots":[
 "08.00 AM - 08.30 AM",
@@ -14,7 +14,7 @@
 },
 
 {
-  "id": 2,
+ 
   "name": "Respiratory Medicine",
   "slots":[
 "08.00 AM - 08.30 AM",
@@ -28,7 +28,7 @@
 },
 
 {
-  "id": 3,
+ 
   "name": "Cardiology",
   "slots":[
 "08.00 AM - 08.30 AM",
@@ -42,7 +42,7 @@
 },
 
 {
-  "id": 4,
+ 
   "name": "Neurology",
   "slots":[
 
@@ -50,7 +50,7 @@
 },
 
 {
-  "id": 5,
+ 
   "name": "Internal Medicine",
   "slots":[
 "08.00 AM - 08.30 AM",
